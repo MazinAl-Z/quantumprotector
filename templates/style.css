@@ -1,16 +1,12 @@
 /* style.css */
-
-/* Other existing styles */
-
 button {
-    background-color: #4CAF50; /* Green background color */
-    color: white; /* White text color */
-    padding: 15px 20px; /* Padding */
-    border: none; /* No border */
-    border-radius: 5px; /* Rounded corners */
-    cursor: pointer; /* Cursor pointer */
-    transition: background-color 0.3s ease; /* Transition for background color */
+    transition: transform 0.3s ease-in-out;
 }
+
+button.animate {
+    transform: scale(1.1);
+}
+
 
 button:hover {
     background-color: #45a049; /* Darker green on hover */
@@ -91,4 +87,3 @@ footer {
 footer p {
     color: #ddd;
 }
-
