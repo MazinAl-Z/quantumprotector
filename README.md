@@ -50,7 +50,7 @@ Make sure you have the following dependencies installed:
 ## Running on Linux 🐧
 Ensure you have the required dependencies installed on your Linux distribution.
 
-### Running on Arch-based Distros
+### [![Running on Arch-based Distros](images/archlinux-icon.png)](https://www.archlinux.org/)
 
 🚧 **Note:** As an Arch Linux user, I faced challenges getting Pip installed for weeks. If you encounter issues, consider trying a Debian-based distro.
 
