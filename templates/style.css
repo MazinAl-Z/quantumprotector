@@ -1,4 +1,30 @@
 /* style.css */
+
+/* Add animation to the button */
+@keyframes buttonAnimation {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.1); }
+  100% { transform: scale(1); }
+}
+
+/* Apply the animation to the button */
+.button-animation {
+  animation: buttonAnimation 1s infinite;
+}
+
+/* Add dark theme styles */
+.dark-theme {
+  background-color: #1a1a1a;
+  color: #fff;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+}
+
 body {
     font-family: Arial, sans-serif;
     text-align: center;
