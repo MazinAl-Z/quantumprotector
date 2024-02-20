@@ -1,4 +1,6 @@
-# Quantum Protector
+<div align="center">
+## Quantum Protector
+</div>
 
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
 [![Qiskit](https://img.shields.io/badge/Qiskit-0.31.0-green.svg)](https://qiskit.org/)
@@ -50,7 +52,7 @@ Make sure you have the following dependencies installed:
 ## Running on Linux 🐧
 Ensure you have the required dependencies installed on your Linux distribution.
 
-### [![Running on Arch-based Distros](images/archlinux-icon.png)](https://www.archlinux.org/)
+### Running on Arch-based Distros
 
 🚧 **Note:** As an Arch Linux user, I faced challenges getting Pip installed for weeks. If you encounter issues, consider trying a Debian-based distro.
 
@@ -69,3 +71,9 @@ python3 app.py
 ```
 
 Feel free to use or modify it as needed!
+
+## Running on Windows
+
+To install on Windows, please follow these instructions:
+
+[![Instructions](https://raw.githubusercontent.com/MazinAl-Z/quantumprotector/main/windows/instructions.png)](https://raw.githubusercontent.com/MazinAl-Z/quantumprotector/main/windows/instructions.png)
