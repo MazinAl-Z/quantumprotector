@@ -74,6 +74,5 @@ Feel free to use or modify it as needed!
 
 ## Running on Windows
 
-To install on Windows, please follow these instructions:
+To install on Windows, please follow these [instructions](https://raw.githubusercontent.com/MazinAl-Z/quantumprotector/main/windows/instructions.jpeg).
 
-[![Instructions](https://raw.githubusercontent.com/MazinAl-Z/quantumprotector/main/windows/instructions.jpeg)](https://raw.githubusercontent.com/MazinAl-Z/quantumprotector/main/windows/instructions.png)
