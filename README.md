@@ -23,4 +23,70 @@ This project is licensed under the [GNU General Public License v3.0](https://www
 ## Acknowledgments
 
 Tuwaiq Academy for providing the Quantum Computing Boot Camp
-For more details, visit the [Tuwaiq Academy](https://tuwaiq.edu.sa/) website.
+
+## Website
+
+🚧 **Under Construction** 🚧
+
+## Running it Locally
+
+To run Quantum Protector locally, follow these instructions:
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/your-username/QuantumProtector.git
+cd QuantumProtector
+```
+
+## Dependencies
+
+Make sure you have the following dependencies installed:
+
+- Python 3
+- Pip
+- Other project dependencies (see Installation Section)
+
+### Running on Arch-based Distros
+
+🚧 **Note:** As an Arch Linux user, I faced challenges getting Pip installed for weeks. If you encounter issues, consider trying a Debian-based distro.
+
+### Running on Debian-based Distros
+
+🛠️ A script to install dependencies is included. Execute the following commands:
+
+```bash
+cd scripts
+./install_dependencies.sh
+```
+
+## Dependencies
+
+Make sure you have the following dependencies installed:
+
+- Python 3
+- Pip
+- Other project dependencies (see Installation Section)
+
+### Running on Arch-based Distros
+
+🚧 **Note:** As an Arch Linux user, I faced challenges getting Pip installed for weeks. If you encounter issues, consider trying a Debian-based distro.
+
+### Running on Debian-based Distros
+
+🛠️ A script to install dependencies is included. Execute the following commands:
+
+```bash
+./install_dependencies.sh
+```
+
+🚀 Now you're ready to run Quantum Protector locally!
+
+```bash
+python3 app.py
+```
+
+Feel free to use or modify it as needed!
+
+
+
