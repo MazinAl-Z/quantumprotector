@@ -1,15 +1,19 @@
 /* style.css */
 
-/* Add animation to the button */
-@keyframes buttonAnimation {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.1); }
-  100% { transform: scale(1); }
+/* Other existing styles */
+
+button {
+    background-color: #4CAF50; /* Green background color */
+    color: white; /* White text color */
+    padding: 15px 20px; /* Padding */
+    border: none; /* No border */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Cursor pointer */
+    transition: background-color 0.3s ease; /* Transition for background color */
 }
 
-/* Apply the animation to the button */
-.button-animation {
-  animation: buttonAnimation 1s infinite;
+button:hover {
+    background-color: #45a049; /* Darker green on hover */
 }
 
 /* Add dark theme styles */
