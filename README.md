@@ -6,17 +6,17 @@
 
 Quantum Protector is a machine learning project developed for the final project in the Tuwaiq Academy Boot Camp for Quantum Computing.
 
-## Overview
+## Overview 🔭
 
 Quantum Protector combines quantum computing and machine learning to enhance cybersecurity measures. It uses the Qiskit library for quantum computing and scikit-learn for classical machine learning, specifically Quantum Support Vector Classification (QSVC). The project aims to provide advanced classification capabilities with the integration of quantum kernels.
 
-## Features
+## Features 🧰
 
 - Quantum Support Vector Classification (QSVC)
 - Flask web application for user interaction
 - Integration with quantum kernels for enhanced classification
 
-## License
+## License 📜
 
 This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
 
@@ -24,7 +24,7 @@ This project is licensed under the [GNU General Public License v3.0](https://www
 
 Tuwaiq Academy for providing the Quantum Computing Boot Camp
 
-## Website
+## Website 🌐
 
 🚧 **Under Construction** 🚧
 
@@ -46,6 +46,9 @@ Make sure you have the following dependencies installed:
 - Python 3
 - Pip
 - Other project dependencies (see Installation Section)
+
+## Running on Linux 🐧
+Ensure you have the required dependencies installed on your Linux distribution.
 
 ### Running on Arch-based Distros
 
