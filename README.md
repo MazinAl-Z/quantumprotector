@@ -72,7 +72,7 @@ python3 app.py
 
 Feel free to use or modify it as needed!
 
-## Running on Windows
+## Running on Windows 🪟
 
 To install on Windows, please follow these [instructions](https://raw.githubusercontent.com/MazinAl-Z/quantumprotector/main/windows/instructions.jpeg).
 
