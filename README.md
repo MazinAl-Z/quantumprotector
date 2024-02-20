@@ -56,27 +56,6 @@ Make sure you have the following dependencies installed:
 🛠️ A script to install dependencies is included. Execute the following commands:
 
 ```bash
-cd scripts
-./install_dependencies.sh
-```
-
-## Dependencies
-
-Make sure you have the following dependencies installed:
-
-- Python 3
-- Pip
-- Other project dependencies (see Installation Section)
-
-### Running on Arch-based Distros
-
-🚧 **Note:** As an Arch Linux user, I faced challenges getting Pip installed for weeks. If you encounter issues, consider trying a Debian-based distro.
-
-### Running on Debian-based Distros
-
-🛠️ A script to install dependencies is included. Execute the following commands:
-
-```bash
 ./install_dependencies.sh
 ```
 
@@ -87,6 +66,3 @@ python3 app.py
 ```
 
 Feel free to use or modify it as needed!
-
-
-
