@@ -2,44 +2,39 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Quantum Protector - Index</title>
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Quantum Protector</title>
 </head>
 
-<body>
-    <header>
-        <h1>Quantum Protector - Index</h1>
-    </header>
+<body class="dark-theme">
+  <div class="container">
+    <h1>Quantum Protector</h1>
+    <p>Enhancing cybersecurity with quantum computing and machine learning.</p>
+    
+    <form id="choicesForm">
+      <label for="httpsChoice">
+        <input type="radio" id="httpsChoice" name="choice" value="https">
+        Is the URL HTTPS?
+      </label>
 
-    <main>
-        <form action="/submit" method="post">
-            <label for="https">Is the URL HTTPS?</label>
-            <select id="https" name="https">
-                <option value="yes">Yes</option>
-                <option value="no">No</option>
-            </select>
+      <label for="faviconChoice">
+        <input type="radio" id="faviconChoice" name="choice" value="favicon">
+        Does the email have a favicon?
+      </label>
 
-            <label for="favicon">Does the email have a favicon?</label>
-            <select id="favicon" name="favicon">
-                <option value="yes">Yes</option>
-                <option value="no">No</option>
-            </select>
+      <label for="urlAbnormalChoice">
+        <input type="radio" id="urlAbnormalChoice" name="choice" value="urlAbnormal">
+        Is the URL abnormal?
+      </label>
 
-            <label for="abnormal-url">Is the URL abnormal?</label>
-            <select id="abnormal-url" name="abnormal-url">
-                <option value="yes">Yes</option>
-                <option value="no">No</option>
-            </select>
-
-            <button type="submit">Submit</button>
-        </form>
-    </main>
-
-    <footer>
-        <p>&copy; 2024 Quantum Protector | <a href="https://github.com/MazinAl-Z/quantumprotector" target="_blank">GitHub Repo</a></p>
-    </footer>
+      <button class="button-animation" onclick="submitForm()">Submit</button>
+    </form>
+  </div>
+  
+  <script src="script.js"></script>
 </body>
 
 </html>
