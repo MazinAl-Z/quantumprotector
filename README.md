@@ -1,5 +1,5 @@
 <div align="center">
-## Quantum Protector
+<h1>Quantum Protector</h1>
 </div>
 
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
