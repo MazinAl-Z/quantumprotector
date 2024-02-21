@@ -26,15 +26,11 @@ This project is licensed under the [GNU General Public License v3.0](https://www
 
 Tuwaiq Academy for providing the Quantum Computing Boot Camp
 
-<div align="center">
-<h1>Website 🌐</h1>
-</div>
+## Website 🌐
 
 🚧 **Under Construction** 🚧
 
-<div align="center">
-<h1>Running it Locally</h1>
-</div>
+## Running it Locally
 
 To run Quantum Protector locally, follow these instructions:
 
